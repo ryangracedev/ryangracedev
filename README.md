@@ -1,7 +1,7 @@
 # Hey, I'm Ryan!
 
 💻 I'm a Software Engineer<br/>
-📚 Studied Software Engineering at the University of Guelph<br/>
+📚 Studied Software Engineering @ University of Guelph<br/>
 🔌 Currently @ Kobayashi + Zeitguys<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats
