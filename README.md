@@ -2,7 +2,7 @@
 
 💻 I'm a Software Engineer<br/>
 📚 Studied Software Engineering @ University of Guelph<br/>
-🔌 Currently @ Kobayashi + Zeitguys<br/>
+🔌 Currently @ Appian<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats
 ![](https://github-readme-stats.vercel.app/api?username=ryangracedev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
